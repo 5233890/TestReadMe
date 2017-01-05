@@ -1,0 +1,426 @@
+
+http://hr.dayin.com/security/console.html
+
+http://home.babytree.com/u40706978168
+
+http://oa.dayin.com/ OA系统
+
+15721468856
+Lyd5233890
+
+账号：meitun
+密码：shbabytree
+
+jspa:
+luyudong
+Lyd@5221283
+
+虎峰人事管理系统：
+luyudong
+Lyd5221283
+
+Rtx:
+luyudong
+Lyd5221283
+
+工号：9404
+
+开机：Wcj5221283
+
+友盟账号:
+sunyansong@meitunmama.com
+syswan001
+
+ssh://apache@172.16.9.101/babytree-android.git
+ssh://apache@172.16.9.101/pregnancy-v2-android
+ssh://apache@172.16.9.101/meitun_lib
+
+SVN:  http://192.168.24.40/svn/meitunmama/android/trunk/meitunmama728
+用户名：luyudong
+密码：luyudong@1
+
+
+git stash 可用来暂存当前正在进行的工作， 比如想pull 最新代码， 又不想加新commit， 或者另外一种情况，为了fix 一个紧急的bug,  先stash, 使返回到自己上一个commit, 改完bug之后再stash pop, 继续原来的工作。
+基础命令：
+$git stash
+$do some work
+$git stash pop
+git stash clear
+
+luyudong@meitunmama.com
+
+sunyansong@meitunmama.com
+
+
+http://www.androiddevtools.cn/
+
+
+C:\Program Files (x86)\Git
+
+
+gpedit.msc
+
+SDK Folder: C:\Users\luyudong\AppData\Local\Android\Sdk
+
+http://www.ihref.com/read-16369.html
+
+http://www.open-open.com/lib/view/open1414396787325.html
+
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000
+
+
+E:\Android\Android Studio\gradle\m2repository\com\android\tools\build\gradle
+
+realPosition = (totalCount + position%totalCount) % totalCOunt
+
+Ctrl+Alt+Space（空格键），类名或接口名提示
+Ctrl+Shift+Space 自动补全代码
+
+
+账号1：13122181330   g1234567
+
+13122181330尾号从0到9密码g1234567
+
+13585816607   deng123456
+
+13122181343. g1234567
+
+18291822006  852852  11160628100117167
+
+13122181341  g1234567
+
+15921536403  lijing91
+
+13585816606 deng123456
+
+18672995780。 abc12345
+
+线上账号：13562301245   deng123456 
+
+15122233312    尾号12-20         密码是sunsun123  
+
+mt_com_white_bg_arrow_bottom_selector
+
+if(!TextUtils.isEmpty(prdtype) && prdtype.equals(GoodsObj.PRODUCT_TYPE_TRIAL)){
+
+开发环境：
+15122222222
+sun123
+
+classpath 'com.android.tools.build:gradle:2.1.0'
+
+//	跳转到二级页面秒杀
+    static public void goToSecondSeckill(Context act, int request) {
+        Intent data = new Intent();
+        data.putExtra(DataCenter.EXTRA_ID, false);
+        CommonActivity.newInstance(act, data, CommonActivity.ActivityType.mt_seckill, request);
+    }
+
+dependencies {
+        classpath 'com.android.tools.build:gradle:1.3.0'
+        classpath fileTree(dir: 'maa', include: ['*.jar'])
+    }
+
+android:background="@color/mt_btn_disable_color"
+
+mt_main_line_color
+
+
+<style name="Base.Theme.AppCompat" parent="Base.V23.Theme.AppCompat"/>
+    <style name="Base.Theme.AppCompat.Light" parent="Base.V23.Theme.AppCompat.Light"/>
+    <style name="Base.V23.Theme.AppCompat" parent="Base.V22.Theme.AppCompat">
+
+ExpandableTextView
+
+"auditStatus":"7"  子订单状态
+
+
+style="@style/mt_tv_over_white_bg"
+android:layout_marginRight="@dimen/layout_space_padding_big"
+android:layout_marginLeft="@dimen/et_with_tv_pre_padding"
+
+android:background="@drawable/mt_com_white_bg_arrow"
+
+android:paddingLeft="@dimen/layout_space_10"
+        android:paddingTop="@dimen/layout_space_10"
+
+<View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/mt_com_line_color" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/mt_com_line_color" />
+--------------------------------------------------------------
+<View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@color/mt_com_btn_pressed" />
+
+
+mLayoutInflater = LayoutInflater.from(context);
+convertView = mLayoutInflater.inflate(layout, null, false);
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="#ffffff" />
+
+    <!-- 设置几何图形四个角的弧度 -->
+    <corners android:radius="3dp"/>
+
+    <!-- 设置几何形状绘制边框 红色边框 -->
+    <stroke android:color="#CD2626"
+        android:width="1dp"/>
+
+</shape>
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 第一层  上部和左部偏移一定距离-->
+
+    <item
+        android:top="2dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+            <!-- 描边 -->
+            <stroke
+                android:width="0.5dp"
+                android:color="#D2D2D2" />
+        </shape>
+    </item>
+    <!-- 第二层 下部和有部偏移一定距离-->
+    <item
+        android:bottom="2dp">
+        <shape>
+            <solid android:color="#ffffff" />
+            <!-- 描边 -->
+
+            <stroke
+                android:width="0.5dp"
+                android:color="#D2D2D2" />
+        </shape>
+    </item>
+
+</layer-list>
+
+    private void startAnimationJoinView(View view) {
+        ObjectAnimator translationY = ObjectAnimator.ofFloat(view, "translationY", view.getY(), 
+	view.getY()+view.getMeasuredHeight());
+        translationY.setDuration(1000);
+        translationY.start();
+    }
+    private void startAlphaShowAnimationJoinView(View view) {
+        ObjectAnimator alpha = ObjectAnimator.ofFloat(view, "alpha", 0f, 1f);
+        alpha.setDuration(1000);
+        alpha.start();
+    }
+
+    public void startTipAnimation() {
+	// TODO Auto-generated method stub
+	ScaleAnimation mScaleAnimation = new ScaleAnimation(1f, 1.4f, 1f, 1.4f,
+				Animation.RELATIVE_TO_SELF, 0.5f, Animation.RELATIVE_TO_SELF,
+				0.5f);
+	mScaleAnimation.setDuration(500);
+	tv_tip.startAnimation(mScaleAnimation);
+    }
+
+
+/**
+     * 按返回键
+     */
+    public void onBackPressed() {
+        if (mPopupWindow != null && mPopupWindow.isShowing()) {
+            dismissPopupWindow();
+        } else {
+            IntentUtil.finishActivity(getBaseActivity());
+        }
+    }
+
+/**
+	 * 隐藏输入法面板
+	 */
+	public void hideKeyboard() {
+		InputMethodManager imm = ((InputMethodManager) getSystemService(INPUT_METHOD_SERVICE));
+		if (imm != null && getCurrentFocus() != null) {
+			imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+		}
+	}
+
+groupId = bundle.getString("groupId");
+
+
+========================================================================
+
+http://m.meitun.com/clearing.html?mtoapp=28&topicId=248&groupId=undefined&orderType=1&uuid=5cdc1720-3702-481c-9999-806e2e118915
+
+Log.e("tag", "isGetAdPic=false-----------");
+fresco:placeholderImageScaleType="fitXY"
+
+MT独立，SettingActivity 156 getNewVersion
+
+Identification authentication
+
+IdAuthentication
+
+IndentifyCodeVerifyFragment
+
+<string name="bind_already_tip">你已绑定手机<![CDATA[<font color="#83DCDE"> %1$s</font>]]>，该手机号可用于登录。确认要更换吗？</string>
+
+---------------------------------------------------------------------
+String code = orderDetailObj.getChangecode();
+        String codestatus = orderDetailObj.getCodestatus();
+
+int colorId = R.color.t999999;
+        String strStatus = "";
+        if (OrderListObj.PCA_NOT_BEGIN.equals(codestatus)) {
+            strStatus = getResources().getString(R.string.sta_changecode_nobegin);
+        } else if (OrderListObj.PCA_UNUSED.equals(codestatus)) {
+            strStatus = getResources().getString(R.string.sta_changecode_unused);
+            colorId = R.color.mt_title_bar;
+        } else if (OrderListObj.PCA_USED.equals(codestatus)) {
+            strStatus = getResources().getString(R.string.sta_changecode_used);
+        } else if (OrderListObj.PCA_CANCEL.equals(codestatus)) {
+            strStatus = getResources().getString(R.string.sta_changecode_cancel);
+        } else if (OrderListObj.PCA_OVERDUE.equals(codestatus)) {
+            strStatus = getResources().getString(R.string.sta_changecode_overdue);
+        } else if (OrderListObj.PCA_SUBSCRIBE.equals(codestatus)) {
+            strStatus = getResources().getString(R.string.sta_changecode_subscribe);
+        }
+        SpannableString numberString = new SpannableString(code + "  " + strStatus);
+        if (!TextUtils.isEmpty(strStatus)) {
+            numberString.setSpan(new ForegroundColorSpan(getResources().getColor(colorId)), numberString.length() - 3,
+                    numberString.length(), Spannable.SPAN_INCLUSIVE_EXCLUSIVE);
+        }
+        codeExchangeTv.setText(numberString);
+
+-----------------------------------------------------------------------------------
+android:layout_width="40dp"
+android:layout_height="40dp"
+fresco:actualImageScaleType="focusCrop"             fitXY
+fresco:placeholderImageScaleType="focusCrop"
+
+http://www.07net01.com/2015/04/824259.html
+================================================
+
+CenterEditActivity  孕育   launchChangePhone  s
+
+AfterSalesCommitActivity   showPhotoDialog  
+BaseUpLoadActivity   startCropImage   ImageUtil.excuteCropImage   resizeBitmapForce
+
+
+6222021001135314745
+
+10.88.9.127:8080
+
+BackgroundColorSpan
+
+mt_car_item_product
+
+android:allowBackup="true"
+
+E:\Android\Android Studio\gradle\gradle-2.10
+
+style="@style/mt_btn_car_item"
+
+肖武ip:http://192.168.10.92:8080
+http://10.88.9.102:8080
+http://www.dt158.com/pdf/3700765001144474196.pdf
+
+====================================================================================
+
+#埋点链接，gradle根据meitun_url确定需要加载的url
+tracker_test_url="http://192.168.24.53:8080/warlock-collector-tester/service/T0001"
+tracker_url="http://tracking.meitun.com/service/T0001"
+
+MeitunDbHelper  meitunEvent
+
+----------------------------------------------------
+
+//写死用户信息
+DataCenter
+//获取用户信息
+    public static UserObj getUserData(Context context) {
+        return PreferencesUtil.getPreferences(context, PREFERENCE_USER_DATA);
+    }
+
+
+ UserObj obj = new UserObj();
+        //{"enuserid":"u96353445327","name":"树友27350105","rescode":{"code":"0","info":"用户登入成功"},"telephone":"13482435655","token":"EVPXigvoYgG7oG8gRc4Dq42P+Rqk7/HGIwacdp/0GB4="}
+        obj.setEnuserid("u96353445327");
+        obj.setName("树友27350105");
+        obj.setTelephone("13482435655");
+        obj.setToken("ypNb6aPpJvxCNVghhcc+ndHSSxzUte4FEyGEZLmyjHw=");
+
+        return obj;
+ 
+----------------------------------------------------------------
+MeitunManager   handleLoginSuccess   // 处理登录成功的跳转
+
+String value = uri.getQueryParameter("subjectBaseObj");
+				GroupSubjectBaseObj subjectBaseObj = null;
+				if (!TextUtils.isEmpty(value)) {
+					Gson gson = new Gson();
+					subjectBaseObj = gson.fromJson(value, GroupSubjectBaseObj.class);//json字符串转对象
+				}
+				ProjectApplication.gotoMixContentActivity(context, subjectBaseObj);
+
+Gson g = new Gson();
+String str = g.toJson(subjectBaseObj);//对象转json字符串
+
+
+Gson g = new Gson();
+PriternityOrderInfo mPriternityOrderInfo = g.fromJson(data.optString("data"), new TypeToken<PriternityOrderInfo>() {}.getType());
+addData(mPriternityOrderInfo);
+
+Gson gson = new Gson();
+ArrayList<ReceiveAddressObj> tempList = gson.fromJson(data.optString("addresslist"),new TypeToken<ArrayList<ReceiveAddressObj>>(){}.getType());
+addAllData(tempList);
+
+
+PRODUCT_TYPE_PRITERNITY  亲子类型
+
+获取商品详情后 --- updateDetail --- update
+
+setExchangeCode
+
+collapse折叠  expand展开
+
+mt_btn_primary_color
+  
+GoodsObj.PRODUCT_TYPE_PRITERNITY priternity  Priternity     ordinary         parental
+
+orderDetailObj.getIspcaorder().equals(GoodsObj.PRODUCT_TYPE_PRITERNITY)
+
+prdtype.equals(GoodsObj.PRODUCT_TYPE_PRITERNITY)
+
+
+GroupCoinsDetailActivity  囤币明细
+
+
+@drawable/mt_com_white_bg_bottom
+
+afterOrderDetail
+
+http://192.168.24.42:8090/pages/viewpage.action?pageId=2294346
+
+getDefaultAddress();
+
+SeaAmoyOrderPayActivity   NetHandler  ApiRequest  SignUtil
+
+
+树生活api接口定义wiki： http://192.168.24.42:8090/pages/viewpage.action?pageId=2294333  
+
+android组WIKI: http://192.168.24.42:8090/pages/viewpage.action?pageId=1508869
+
+
+createRequest         onJsonResponse
+
+
+
+
