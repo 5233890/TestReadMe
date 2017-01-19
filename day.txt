@@ -53,6 +53,7 @@ sunyansong@meitunmama.com
 
 
 http://www.androiddevtools.cn/
+gank.io api
 
 
 C:\Program Files (x86)\Git
@@ -422,5 +423,56 @@ android组WIKI: http://192.168.24.42:8090/pages/viewpage.action?pageId=1508869
 createRequest         onJsonResponse
 
 
+android:lines="2"
+android:maxLines="2"
+android:ellipsize="end"
 
 
+https://m.meitun.com/newapi/order/queryrejectlist?startpage=1&pagesize=10
+
+multiple packages  多包裹
+
+
+
+
+
+ArrayList<PackageinfoObj> packageinfoList
+
+
+packageinfoObj
+
+
+
+http://192.168.24.42:8090/pages/viewpage.action?pageId=3506374      列表      
+http://192.168.24.42:8090/pages/viewpage.action?pageId=2294633   详情
+
+http://192.168.24.42:8090/pages/viewpage.action?pageId=3506458   补发信息获取   
+
+
+@SerializedName("context")
+
+@SerializedName("dataTime")
+
+
+
+if(null != obj.getNeedModifyBackGoodsBtn() && "1".equals(obj.getNeedModifyBackGoodsBtn())){  //回寄修改
+
+
+http://10.88.9.126:8080/mobile/user/allorders.htm
+
+
+http://10.88.9.126:8080/newapi/order/express/packageinfo?protocol=http&subordercode=11170112100136547
+
+
+
+#10.88.9.126:8080
+
+
+灰色：android:textColor="@color/mt_front_comment_color"
+
+android:drawableRight="@drawable/mt_right_arrow"
+
+android:gravity="right|center_vertical"
+
+
+mt_up_down_selector
